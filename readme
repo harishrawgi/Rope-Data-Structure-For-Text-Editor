@@ -1,0 +1,33 @@
+-----------------------------------Implementation of Text Editor using Rope--------------------------------------------------------------
+
+Developed by: Hari Shrawgi
+
+Language: C
+Libraries Used (C): stdlib, stdio
+
+-----------------------------------Implementation of Text Editor using Rope--------------------------------------------------------------
+
+1. Basic Introduction
+----------------------
+
+All the src code has been written to implement an application of persistent data structre. The application is a text editor, and the
+data structure used is Rope.
+
+2. Code description
+--------------------
+
+The text-editor is a prototype which supports all the operations of a simple text-editor. It is a menu-driven
+editor which allows you to:
+  - append strings
+  - Undo (upto any level)
+  - print the text
+  - print text of any previous version (basically to see how much to undo)
+
+The text-editor program can be tested using the makefile and running the program.
+
+3. Testing
+----------
+
+Performing testing is simple. Just use the corresponding makefiles and then run the program.
+
+------------------------------------------------------X---------------------------------------------x------------------------------------------
